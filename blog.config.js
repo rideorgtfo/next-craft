@@ -9,7 +9,7 @@ const BLOG = {
     ? process.env.CRAFT_CONFIG_SHARE_URL
     : 'https://rideorgtfo.craft.me/config', // The link to share your craft config
   seo: {
-    keywords: ['Blog', 'rideorgtfo]
+    keywords: ['Blog', 'rideorgtfo']
   },
   analytics: {
     provider: '', // Currently support Umami, fill with 'umami' to enable or leave it empty to disable it.
