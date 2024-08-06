@@ -7,7 +7,7 @@ const BLOG = {
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   craftConfigShareUrl: process.env.CRAFT_CONFIG_SHARE_URL
     ? process.env.CRAFT_CONFIG_SHARE_URL
-    : 'https://rideorgtfo.craft.me/config', // The link to share your craft config
+    : 'https://rideorgtfo.craft.me/kUoH5a9sFOIED4', // The link to share your craft config
   seo: {
     keywords: ['Blog', 'rideorgtfo']
   },
